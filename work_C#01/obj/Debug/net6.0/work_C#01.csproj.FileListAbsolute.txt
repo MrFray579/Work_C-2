@@ -1,0 +1,15 @@
+/home/fray579/Рабочий стол/work_C#/work_C#01/bin/Debug/net6.0/work_C#01
+/home/fray579/Рабочий стол/work_C#/work_C#01/bin/Debug/net6.0/work_C#01.deps.json
+/home/fray579/Рабочий стол/work_C#/work_C#01/bin/Debug/net6.0/work_C#01.runtimeconfig.json
+/home/fray579/Рабочий стол/work_C#/work_C#01/bin/Debug/net6.0/work_C#01.dll
+/home/fray579/Рабочий стол/work_C#/work_C#01/bin/Debug/net6.0/work_C#01.pdb
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.csproj.AssemblyReference.cache
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.GeneratedMSBuildEditorConfig.editorconfig
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.AssemblyInfoInputs.cache
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.AssemblyInfo.cs
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.csproj.CoreCompileInputs.cache
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.dll
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/refint/work_C#01.dll
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.pdb
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/work_C#01.genruntimeconfig.cache
+/home/fray579/Рабочий стол/work_C#/work_C#01/obj/Debug/net6.0/ref/work_C#01.dll
